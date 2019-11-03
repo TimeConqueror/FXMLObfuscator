@@ -3,8 +3,8 @@
 
 
 <h4>To use this program you need to start it with arguments listed below:</h4>
-1. path/to/file/to/be/replaced.jar</br>
-2. path/to/mapping/file.txt</br></br>
+1. path\to\file\to\be\replaced.jar</br>
+2. path\to\mapping\file.txt</br></br>
 
 **NOTE: If you have spaces in the path, replace them with %20.**
 
